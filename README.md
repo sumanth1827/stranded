@@ -8,3 +8,10 @@ Please feel free to give a feedback after completing the game.
 google drive download link for the game:
 
 https://drive.google.com/file/d/1vC4JhzeYG0zc3dmoFD5nApPC_70KcqhE/view?usp=sharing
+
+------------------------------------------------------------------------------------
+Updated on 24/08/2021
+Version 0.3
+ -Fixed major bugs and issues
+ -Added controls in the pause menu for easy accessibility
+------------------------------------------------------------------------------------ 
