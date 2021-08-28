@@ -8,6 +8,10 @@ Please feel free to give a feedback after completing the game.
 google drive download link for the game:
 
 https://drive.google.com/file/d/1vC4JhzeYG0zc3dmoFD5nApPC_70KcqhE/view?usp=sharing
+________________________________________________________
+Walkthrough/speedrun video:
+
+https://youtu.be/Qd2G-1coTAI
 
 ________________________________________________________
 Updated on 24/08/2021
