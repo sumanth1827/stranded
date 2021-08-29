@@ -14,9 +14,14 @@ Horribly edited mini trailer:
 https://drive.google.com/file/d/1wjLh0JcoQMrueK93RS2-C4XwzoG4UF_Q/view?usp=sharing
 
 ________________________________________________________
-Walkthrough/speedrun video:
+Walkthrough/gameplay video:
 
 https://youtu.be/Qd2G-1coTAI
+
+________________________________________________________
+speedrub by me:
+
+https://youtu.be/50x3cstOomM
 
 ________________________________________________________
 Updated on 24/08/2021
