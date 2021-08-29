@@ -19,7 +19,7 @@ Walkthrough/gameplay video:
 https://youtu.be/Qd2G-1coTAI
 
 ________________________________________________________
-speedrub by me:
+speedrun by me:
 
 https://youtu.be/50x3cstOomM
 
